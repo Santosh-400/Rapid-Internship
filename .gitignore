@@ -1,0 +1,7 @@
+ 
+.venv/
+instaenv/
+__pycache__/
+*.log
+*.zip
+node_modules/
